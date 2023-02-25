@@ -21,7 +21,7 @@ class Nodo {
     return aux;
   }
 
-//zenoth e doido
+//zenoth e doido e emo
   public boolean localizar(Nodo aux, int num) {
     boolean loc = false;
 
